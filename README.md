@@ -36,3 +36,6 @@ Turn off enhanced security for admins on VM<img width="1470" alt="Screenshot 202
 
 Connect to storage account with the connection string<img width="1191" alt="Screenshot 2024-05-13 at 10 27 18 AM" src="https://github.com/Hunter102002/Network-Access-to-storage-accounts/assets/98543129/8b6e3436-9800-4de9-8f77-7698d1b4ad09">
 
+Validate Connection
+
+<img width="346" alt="Screenshot 2024-05-13 at 10 28 28 AM" src="https://github.com/Hunter102002/Network-Access-to-storage-accounts/assets/98543129/4335827b-ca2b-4caf-9aa7-82c49f106202">
